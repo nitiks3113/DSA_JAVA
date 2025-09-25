@@ -2,7 +2,7 @@ package patternProgramming;
 
 // Sixty-fourth Pattern Problem 
 import java.util.Scanner;
-public class Pattern_64 {
+public class Pattern_63 {
 
 	public static void main(String[] args) {
 
