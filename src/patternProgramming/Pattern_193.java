@@ -18,7 +18,6 @@ public class Pattern_193 {
 		int mid = n / 2 + 1;
 		int num = mid;
 		for (int i = 1; i <= n; i++) {
-			int nums = num;
 			// Print Spaces
 			for (int j = 1; j <= space; j++) {
 				System.out.print("   ");
@@ -42,14 +41,8 @@ public class Pattern_193 {
 	}
 }
 
-// Here is the Pattern : 
+// Here is the Pattern :
 
 /*
-4  4  4  4  4  4  4  
-   3  3  3  3  3  
-      2  2  2  
-         1  
-      2  2  2  
-   3  3  3  3  3  
-4  4  4  4  4  4  4 
-*/
+ * 4 4 4 4 4 4 4 3 3 3 3 3 2 2 2 1 2 2 2 3 3 3 3 3 4 4 4 4 4 4 4
+ */
