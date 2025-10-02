@@ -44,8 +44,14 @@ public class Pattern_214 {
 	}
 }
 
-// Here is the Pattern :
+// Here is the Pattern : 
 
 /*
- * A A A B B A A B C C B A A B C D C B A A B C C B A A B B A A A
- */
+A           A 
+A B       B A 
+A B C   C B A 
+A B C D C B A 
+A B C   C B A 
+A B       B A 
+A           A 
+*/
