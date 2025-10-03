@@ -36,10 +36,16 @@ public class Pattern_239 {
 	}
 }
 
-// Here is the Pattern :
+// Here is the Pattern : 
 
 /*
- * 
- * * * * * * * * * * * * * * * * * * * * *
- * 
- */
+        * 
+      * * * 
+    *   *   * 
+  *     *     * 
+* * * * * * * * * 
+  *     *     * 
+    *   *   * 
+      * * * 
+        * 
+*/
