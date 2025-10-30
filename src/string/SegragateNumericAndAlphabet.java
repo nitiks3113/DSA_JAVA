@@ -3,7 +3,7 @@ package string;
 /*
 WAJP to take a String input and segregate alphabets and numeric digits in any order.
 i/p: “a4cdx37d2b”
-o/p: “dcaxdb4372”
+o/p: “bdxdca4372”
  
 */
 import java.util.*;
