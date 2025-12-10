@@ -3,7 +3,6 @@ package patternProgramming;
 import java.util.Scanner;
 
 public class Pattern_10 {
-
 	public static void main(String[] args) {
 
 		Scanner sc = new Scanner(System.in);
@@ -25,8 +24,8 @@ public class Pattern_10 {
 		for (int i = 1; i <= n; i++) {
 			System.out.println("**");
 		}
+	
 	}
-
 }
 // Here is the Pattern : 
 //* * * * * * * * * * * 
@@ -50,4 +49,4 @@ public class Pattern_10 {
 //**
 //**
 //**
-**
+
