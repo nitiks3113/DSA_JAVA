@@ -6,7 +6,7 @@ import java.util.Scanner;
 /**
  * WAJP to rotate all the elements of array k position to its left.
  */
-public class RotateLeftByKPosition {
+public class P26_RotateLeftByKPosition {
 
 	public static void main(String[] args) {
 
